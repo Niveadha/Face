@@ -1,0 +1,6 @@
+env
+.vscode
+__pycache__
+temp
+tcs_fr_weights
+dataset
